@@ -34,6 +34,7 @@ library(fontawesome)
 | Bachelor in Genomic Sciences (LCG), UNAM |&#124; Morelos, Mexico |
 
 
+
 ## Interests ✨
 
 - Genome-scale metabolic modelling
