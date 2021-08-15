@@ -21,10 +21,10 @@ library(fontawesome)
 
 
 
-
-
 ## Bio 📔
-<p style='text-align: justify;'>[Elisa](http://emarquezz.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of his work at [CCG](https://www.libd.org/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the `python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. </p>
+<p style='text-align: justify;'>[Elisa](http://emarquezz.github.io/) integrates multiple omic and phenotipic data with genome-scale metabolic modelling  for rational strain design and bioprocess optimization project as part of his work at [CCG](https://www.ccg.unam.mx/) with [Utrilla Lab](https://sites.google.com/ccg.unam.mx/utrillalab/home). She is interested in the integration of different types of data such as RNA-seq, proteomics, Ribo-seq and fitness information, with metabolism and expression models built with the `python` module [COBRAme](https://cobrame.readthedocs.io/en/master/). Her objective is to make a quantitative comparison between genome and proteome reduction strategies for redirecting cellular resources to synthetic functions. </p>
+
+--------------------------
 
 ## Education 🎓
 
@@ -34,6 +34,29 @@ library(fontawesome)
 | Bachelor in Genomic Sciences (LCG), UNAM |&#124; Morelos, Mexico |
 
 
+------------------------------------
+
+## Internships 🧫/💻
+
+- University of Edinburgh, School of
+Engineering 2019/01 – 2019/04.
+- University of Natural Resources
+and Life Sciences, Vienna, Dpt. of Biotechnology
+2016/12 – 2017/02.
+
+--------------------------
+
+## Teaching 👩‍🏫
+
+|  |  |  |  |
+|:------------------|:------|:--------|:--------|
+| **Professor** of Python II `r fontawesome::fa("python", fill = "gray")`|&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2021 |&#124; Morelos, Mexico
+| **Teaching assistant** of Statistics with R `r fontawesome::fa("r-project", fill = "gray")` |&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2017, 2020, 2021 |&#124; Morelos, Mexico
+| **Teaching assistant** of Bioinformatics and Statistics II |&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2020, 2021 |&#124; Morelos, Mexico
+| **Guest Professor** of Biopython `r fontawesome::fa("python", fill = "gray")`|&#124; [LCG](https://www.lcg.unam.mx/), UNAM |&#124; 2020 |&#124; Morelos, Mexico
+| **Teaching assistant** of Differential Equations II|&#124; [LCG](https://www.lcg.unam.mx/), UNAM|&#124; 2018, 2019|&#124; Morelos, Mexico |
+
+-----------------------------------
 
 ## Interests ✨
 
@@ -42,6 +65,3 @@ library(fontawesome)
 - Bioprocess optimization
 - Teaching
 - Music
-
-
-
